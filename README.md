@@ -1,1 +1,1 @@
-# http://gapip.github.io
+# gapip.github.io
